@@ -1,0 +1,8 @@
+2:man :()la commande man c'est manuel de votre commande
+5:manls ne fonctionne pas parceque c'est commande introvable / la commande man 3 ls :man 3 ls aucune entree de manuel pour ls en section 3
+6:ls:(liste)  permet de lister un repertoir
+7:tous les commandes ont le meme fonction
+8:pwd:print working directory :elle permet d'afficher le chemin d'acces vers le repertoir/cd:permet de se promener dans les reprtoires / quand je fais du cd achangange 
+9:cd..:retourne a la derriere / cd -:retourne au repertoire precedent /cd ~:retourne de dossier d'utilisateur 
+10:mkdir :cree un repertoire / rmdir: supprime c'est repertoire
+
