@@ -6,3 +6,4 @@
 9:cd..:retourne a la derriere / cd -:retourne au repertoire precedent /cd ~:retourne de dossier d'utilisateur 
 10:mkdir :cree un repertoire / rmdir: supprime c'est repertoire
 
+
